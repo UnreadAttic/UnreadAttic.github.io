@@ -1,4 +1,5 @@
 * {
+    scroll-behavior: smooth;
     cursor: url('images/Brawl_tree_pointer.png'), pointer;
     font-family: Gotham Narrow SSm A,Gotham Narrow SSm B,Rubik,Lato,Lucida Grande,Lucida Sans Unicode,Tahoma,Sans-Serif;
     box-sizing: border-box;
